@@ -1,0 +1,35 @@
+.h1{
+  color: lime;
+}
+.container{
+  margin:200px;
+}
+.backlim{
+  width: 1250px;
+}
+.quadrato{
+background-color: lime;
+height: 45px;
+}
+.logo{
+  width:200px;
+  background-size:10px;
+  background-position: center;
+  margin-right: 10px;
+}
+.section{
+  background-color: Lime;
+  width: 60px;
+}
+.quadrato2{
+  background-color: orange;
+  width: 24%;
+}
+.quadrato3{
+  background-color: green;
+  width: 66%;
+}
+.quadrato4{
+  background-color:red;
+  width: 10%;
+}
